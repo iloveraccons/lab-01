@@ -1,0 +1,8 @@
+print ("hello world")
+name = input("what is your name?")
+print ("hello," + name)
+age = input("what is your age :")
+print ("you are " + age + " years old")
+message = input("enter message :")
+message = message.upper()
+print(message)
